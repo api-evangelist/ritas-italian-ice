@@ -1,0 +1,44 @@
+aid: ritas-italian-ice
+name: Rita's Italian Ice
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/ritas-italian-ice/refs/heads/main/apis.yml
+tags:
+  - Restaurants
+  - Food and Beverage
+  - Frozen Desserts
+  - Franchise
+  - Quick Service Restaurant
+modified: '2026-05-23'
+apis: []
+common:
+  - type: Website
+    url: https://www.ritasice.com
+  - type: ContactUs
+    url: https://www.ritasice.com/contact/
+  - type: Careers
+    url: https://www.ritasice.com/careers/
+  - type: Franchise
+    url: https://ownaritasfranchise.com/
+  - type: Rewards
+    url: https://www.ritasice.com/rewards/
+  - type: GiftCards
+    url: https://www.ritasice.com/gift-cards
+  - type: Press
+    url: https://www.ritasice.com/press-contact/
+  - type: Facebook
+    url: https://www.facebook.com/RitasItalianIceCompany
+  - type: Instagram
+    url: https://www.instagram.com/ritasice
+  - type: Twitter
+    url: https://twitter.com/ritasitalianice
+description: >-
+  Rita's Italian Ice is a Philadelphia-area founded franchise chain of frozen
+  treat shops known for Italian Ice, Frozen Custard, Gelati, and Misto, operating
+  approximately 550-590 locations across the United States under the tagline
+  "Ice Custard Happiness." The brand is privately held under MTY Food Group
+  (acquired 2021). Rita's maintains a consumer-facing loyalty mobile app and a
+  franchise development site, but exposes no public developer API, OpenAPI
+  specification, SDK, webhooks, status page, or developer portal at this time.
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
