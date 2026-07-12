@@ -11,6 +11,8 @@ tags:
 modified: '2026-06-03'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/ritas-italian-ice-domain-security.yml
   - type: Website
     url: https://www.ritasice.com
   - type: ContactUs
