@@ -16,6 +16,12 @@ name: Rita's Italian Ice
 url: >-
   https://raw.githubusercontent.com/api-evangelist/ritas-italian-ice/refs/heads/main/apis.yml
 tags:
+  - Restaurant
+  - Food and Beverage
+  - Frozen Desserts
+  - Franchise
+  - Quick Service Restaurant
+tags_raw:
   - Restaurants
   - Food and Beverage
   - Frozen Desserts
