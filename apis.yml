@@ -25,6 +25,8 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/ritas-italian-ice.png
 name: Rita's Italian Ice
 url: >-
+x-api-posture: no-product-api
+x-api-posture-basis: observed
   https://raw.githubusercontent.com/api-evangelist/ritas-italian-ice/refs/heads/main/apis.yml
 tags:
   - Restaurant
